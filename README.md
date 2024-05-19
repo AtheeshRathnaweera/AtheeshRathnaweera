@@ -4,6 +4,8 @@
   <a href="www.linkedin.com/in/atheeshrathnaweera"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   &nbsp;
   <a href="https://medium.com/@rathnaweeraatheesh72"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/8530333/atheesh-27"><img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/></a>
 </div>
 <br>
 <div>
