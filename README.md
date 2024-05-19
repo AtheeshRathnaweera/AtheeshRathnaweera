@@ -1,11 +1,11 @@
 ### Hi there, I am Atheesh Rathnaweera 👋
 
 <div id="badges">
-  <a href="www.linkedin.com/in/atheeshrathnaweera"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="www.linkedin.com/in/atheeshrathnaweera" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   &nbsp;
-  <a href="https://medium.com/@rathnaweeraatheesh72"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
+  <a href="https://medium.com/@rathnaweeraatheesh72" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
   &nbsp;
-  <a href="https://stackoverflow.com/users/8530333/atheesh-27"><img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/></a>
+  <a href="https://stackoverflow.com/users/8530333/atheesh-27" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/></a>
 </div>
 <br>
 <div>
@@ -46,7 +46,7 @@
 #### Leetcode :
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rathnaweeraatheesh72)
 
-<img src="https://komarev.com/ghpvc/?username=AtheeshRathnaweera&style=flat-square&color=blue&label=visitors" alt="">
+<img src="https://komarev.com/ghpvc/?username=AtheeshRathnaweera&style=flat-square&color=blue&label=visitors" alt="Visitors Count">
 
 <!--
 **AtheeshRathnaweera/AtheeshRathnaweera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
