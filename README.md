@@ -39,9 +39,9 @@
 ### 📊 My Stats :
 
 #### GitHub :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AtheeshRathnaweera&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AtheeshRathnaweera&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtheeshRathnaweera&layout=compact&theme=dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtheeshRathnaweera&layout=compact&theme=dark&hide_border=false&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Leetcode :
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rathnaweeraatheesh72)
