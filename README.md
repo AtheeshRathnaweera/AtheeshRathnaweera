@@ -17,6 +17,7 @@
   - :telescope: I'm currently working as a Senior Software Engineer.
   - :zap: In my free time, I solve problems on <a href="https://leetcode.com/u/rathnaweeraatheesh72/">Leetcode</a> and read tech articles.
   - 🤝 I'm interested in finding ways to contribute my skills and learn from others in the community.
+  - 🌐 Check out my portfolio: <a href="https://atheeshrathnaweera.github.io" target="_blank">atheeshrathnaweera.github.io</a> 
   - :mailbox: How to reach me: rathnaweeraatheesh72@gmail.com
 
 </div>
